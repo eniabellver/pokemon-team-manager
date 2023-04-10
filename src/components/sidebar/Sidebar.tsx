@@ -5,3 +5,4 @@ export default function Sidebar() {
     <div>Sidebar</div>
   )
 }
+
